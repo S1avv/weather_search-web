@@ -2,6 +2,9 @@
 
 This project provides weather information for a given city or country using a Flask web application. Weather data is retrieved from WeatherAPI.
 
+![Screen](https://github.com/S1avv/weather_search-web/assets/151785734/9d087dcc-55c8-4a47-a315-819dcd77808f)
+
+
 ## Features
 
 - Get current weather information for any city or country.
