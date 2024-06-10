@@ -1,0 +1,1 @@
+api_key = "" # https://www.weatherapi.com/
